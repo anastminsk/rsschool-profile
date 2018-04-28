@@ -1,5 +1,5 @@
 # rsschool-profile
 
-Anastasija Tanyhina
+Nastassia Tanyhina
 
 HTML CSS Basics course: https://www.codecademy.com/users/anastminsk/achievements
